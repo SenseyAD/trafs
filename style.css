@@ -4,6 +4,10 @@ body {
     padding: 0 5px 0 0;
     font-family: 'pirulen rg';
     color: rgb(71, 48, 154);
+
+}
+body a {
+    text-decoration: none;
 }
 .line {
     height: 3px;
